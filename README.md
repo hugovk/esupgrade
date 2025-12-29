@@ -40,6 +40,12 @@ pre-commit run esupgrade --all-files
 npx esupgrade --help
 ```
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://web-platform-dx.github.io/web-features/assets/img/baseline-wordmark-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://web-platform-dx.github.io/web-features/assets/img/baseline-wordmark.svg">
+  <img alt="Baseline: widely available" src="https://web-platform-dx.github.io/web-features/assets/img/baseline-wordmark.svg" height="32" align="right">
+</picture>
+
 ## Browser Support & Baseline
 
 All transformations are based on [Web Platform Baseline][baseline] features. Baseline tracks which web platform features are safe to use across browsers.
